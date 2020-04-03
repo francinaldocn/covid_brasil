@@ -6,7 +6,7 @@ Os dados utilizados para geração das visualizações são provenientes do repo
 
 Os códigos e visualizações constantes neste repositório são apenas para fins didáticos. 
 
-Os dados sobre o COVID-19 são coletados diretamente do respositório de dados públicos **Brasil.IO.** neste [link](https://brasil.io/dataset/covid19/caso?format=csv).
+Os dados sobre o COVID-19 são coletados diretamente do respositório de dados públicos **Brasil.IO** neste [link](https://brasil.io/dataset/covid19/caso?format=csv).
 
 Os dados das malhas territoriais brasileiras estão disponíveis no site do IBGE neste [link](ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2015/Brasil/BR/).
 
