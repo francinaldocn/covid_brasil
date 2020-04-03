@@ -1,4 +1,19 @@
 date,state,city,place_type,confirmed,deaths,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
+2020-04-03,AC,Acrelândia,city,9,0,True,15256,1200013,58.99318,
+2020-04-03,AC,Porto Acre,city,1,0,True,18504,1200807,5.40424,
+2020-04-03,AC,Rio Branco,city,36,0,True,407319,1200401,8.83828,
+2020-04-03,AC,,state,46,0,True,881935,12,5.2158,
+2020-04-03,AM,Anori,city,1,0,True,21010,1300102,4.75964,
+2020-04-03,AM,Boca do Acre,city,1,0,True,34308,1300706,2.91477,
+2020-04-03,AM,Careiro da Várzea,city,1,0,True,30225,1301159,3.30852,
+2020-04-03,AM,Itacoatiara,city,4,0,True,101337,1301902,3.94723,
+2020-04-03,AM,Manacapuru,city,10,1,True,97377,1302504,10.26937,0.1
+2020-04-03,AM,Manaus,city,232,5,True,2182763,1302603,10.62873,0.0216
+2020-04-03,AM,Novo Airão,city,1,0,True,19454,1303205,5.14033,
+2020-04-03,AM,Parintins,city,3,1,True,114273,1303403,2.62529,0.3333
+2020-04-03,AM,Santo Antônio do Içá,city,4,0,True,21602,1303700,18.5168,
+2020-04-03,AM,Tonantins,city,3,0,True,18755,1304237,15.99573,
+2020-04-03,AM,,state,260,7,True,4144597,13,6.27323,0.0269
 2020-04-03,AP,Macapá,city,19,0,True,503327,1600303,3.77488,
 2020-04-03,AP,,state,19,0,True,845731,16,2.24658,
 2020-04-03,PA,Abaetetuba,city,1,0,True,157698,1500107,0.63412,
@@ -20,6 +35,23 @@ date,state,city,place_type,confirmed,deaths,is_last,estimated_population_2019,ci
 2020-04-03,PB,Patos,city,1,1,True,107605,2510808,0.92932,1.0
 2020-04-03,PB,Sousa,city,1,,True,69444,2516201,1.44001,
 2020-04-03,PB,,state,30,1,True,4018127,25,0.74662,0.0333
+2020-04-03,PE,Aliança,city,1,0,True,38386,2600708,2.60512,
+2020-04-03,PE,Belo Jardim,city,1,0,True,76439,2601706,1.30823,
+2020-04-03,PE,Cabo de Santo Agostinho,city,2,1,True,207048,2602902,0.96596,0.5
+2020-04-03,PE,Camaragibe,city,4,0,True,157828,2603454,2.5344,
+2020-04-03,PE,Caruaru,city,1,0,True,361118,2604106,0.27692,
+2020-04-03,PE,Fernando de Noronha,city,5,0,True,3061,2605459,163.34531,
+2020-04-03,PE,Goiana,city,1,1,True,79758,2606200,1.25379,1.0
+2020-04-03,PE,Importados/Indefinidos,city,5,1,True,,,,0.2
+2020-04-03,PE,Ipubi,city,1,0,True,30854,2607307,3.24107,
+2020-04-03,PE,Jaboatão dos Guararapes,city,8,0,True,702298,2607901,1.13912,
+2020-04-03,PE,Olinda,city,6,1,True,392482,2609600,1.52873,0.1667
+2020-04-03,PE,Palmares,city,1,0,True,63250,2610004,1.58103,
+2020-04-03,PE,Paulista,city,3,0,True,331774,2610707,0.90423,
+2020-04-03,PE,Petrolina,city,2,0,True,349145,2611101,0.57283,
+2020-04-03,PE,Recife,city,92,6,True,1645727,2611606,5.59023,0.0652
+2020-04-03,PE,São Lourenço da Mata,city,3,0,True,113230,2613701,2.64947,
+2020-04-03,PE,,state,136,10,True,9557071,26,1.42303,0.0735
 2020-04-03,PR,Almirante Tamandaré,city,3,0,True,118623,4100400,2.52902,
 2020-04-03,PR,Arapongas,city,2,0,True,123027,4101507,1.62566,
 2020-04-03,PR,Araruna,city,1,0,True,13970,4101705,7.1582,
@@ -78,25 +110,29 @@ date,state,city,place_type,confirmed,deaths,is_last,estimated_population_2019,ci
 2020-04-03,PR,União da Vitória,city,2,0,True,57517,4128203,3.47723,
 2020-04-03,PR,Verê,city,1,0,True,7257,4128609,13.7798,
 2020-04-03,PR,,state,307,4,True,11433957,41,2.68498,0.013
-2020-04-02,AC,Acrelândia,city,8,0,True,15256,1200013,52.43838,
-2020-04-02,AC,Porto Acre,city,1,0,True,18504,1200807,5.40424,
-2020-04-02,AC,Rio Branco,city,36,0,True,407319,1200401,8.83828,
-2020-04-02,AC,,state,45,0,True,881935,12,5.10242,
+2020-04-03,RO,Jaru,city,1,0,True,51775,1100114,1.93143,
+2020-04-03,RO,Ji-Paraná,city,1,0,True,128969,1100122,0.77538,
+2020-04-03,RO,Porto Velho,city,8,1,True,529544,1100205,1.51073,0.125
+2020-04-03,RO,,state,10,1,True,1777225,11,0.56267,0.1
+2020-04-02,AC,Acrelândia,city,8,0,False,15256,1200013,52.43838,
+2020-04-02,AC,Porto Acre,city,1,0,False,18504,1200807,5.40424,
+2020-04-02,AC,Rio Branco,city,36,0,False,407319,1200401,8.83828,
+2020-04-02,AC,,state,45,0,False,881935,12,5.10242,
 2020-04-02,AL,Importados/Indefinidos,city,4,0,True,,,,
 2020-04-02,AL,Maceió,city,13,1,True,1018948,2704302,1.27583,0.0769
 2020-04-02,AL,Porto Real do Colégio,city,1,0,True,20066,2707503,4.98355,
 2020-04-02,AL,,state,18,1,True,3337357,27,0.53935,0.0556
-2020-04-02,AM,Anori,city,1,0,True,21010,1300102,4.75964,
-2020-04-02,AM,Boca do Acre,city,1,0,True,34308,1300706,2.91477,
-2020-04-02,AM,Careiro da Várzea,city,1,0,True,30225,1301159,3.30852,
-2020-04-02,AM,Itacoatiara,city,4,0,True,101337,1301902,3.94723,
-2020-04-02,AM,Manacapuru,city,6,0,True,97377,1302504,6.16162,
-2020-04-02,AM,Manaus,city,205,2,True,2182763,1302603,9.39177,0.0098
-2020-04-02,AM,Novo Airão,city,1,0,True,19454,1303205,5.14033,
-2020-04-02,AM,Parintins,city,3,1,True,114273,1303403,2.62529,0.3333
-2020-04-02,AM,Santo Antônio do Içá,city,4,0,True,21602,1303700,18.5168,
-2020-04-02,AM,Tonantins,city,3,0,True,18755,1304237,15.99573,
-2020-04-02,AM,,state,229,3,True,4144597,13,5.52527,0.0131
+2020-04-02,AM,Anori,city,1,0,False,21010,1300102,4.75964,
+2020-04-02,AM,Boca do Acre,city,1,0,False,34308,1300706,2.91477,
+2020-04-02,AM,Careiro da Várzea,city,1,0,False,30225,1301159,3.30852,
+2020-04-02,AM,Itacoatiara,city,4,0,False,101337,1301902,3.94723,
+2020-04-02,AM,Manacapuru,city,6,0,False,97377,1302504,6.16162,
+2020-04-02,AM,Manaus,city,205,2,False,2182763,1302603,9.39177,0.0098
+2020-04-02,AM,Novo Airão,city,1,0,False,19454,1303205,5.14033,
+2020-04-02,AM,Parintins,city,3,1,False,114273,1303403,2.62529,0.3333
+2020-04-02,AM,Santo Antônio do Içá,city,4,0,False,21602,1303700,18.5168,
+2020-04-02,AM,Tonantins,city,3,0,False,18755,1304237,15.99573,
+2020-04-02,AM,,state,229,3,False,4144597,13,5.52527,0.0131
 2020-04-02,AP,Macapá,city,12,0,False,503327,1600303,2.38414,
 2020-04-02,AP,,state,12,0,False,845731,16,1.41889,
 2020-04-02,BA,Alagoinhas,city,3,0,True,151596,2900702,1.97894,
@@ -281,21 +317,21 @@ date,state,city,place_type,confirmed,deaths,is_last,estimated_population_2019,ci
 2020-04-02,PB,Patos,city,1,1,False,107605,2510808,0.92932,1.0
 2020-04-02,PB,Sousa,city,1,,False,69444,2516201,1.44001,
 2020-04-02,PB,,state,29,1,False,4018127,25,0.72173,0.0345
-2020-04-02,PE,Aliança,city,1,0,True,38386,2600708,2.60512,
-2020-04-02,PE,Belo Jardim,city,1,0,True,76439,2601706,1.30823,
-2020-04-02,PE,Camaragibe,city,2,0,True,157828,2603454,1.2672,
-2020-04-02,PE,Caruaru,city,1,0,True,361118,2604106,0.27692,
-2020-04-02,PE,Fernando de Noronha,city,2,0,True,3061,2605459,65.33812,
-2020-04-02,PE,Goiana,city,1,1,True,79758,2606200,1.25379,1.0
-2020-04-02,PE,Importados/Indefinidos,city,5,1,True,,,,0.2
-2020-04-02,PE,Ipubi,city,1,0,True,30854,2607307,3.24107,
-2020-04-02,PE,Jaboatão dos Guararapes,city,7,0,True,702298,2607901,0.99673,
-2020-04-02,PE,Olinda,city,5,1,True,392482,2609600,1.27394,0.2
-2020-04-02,PE,Palmares,city,1,0,True,63250,2610004,1.58103,
-2020-04-02,PE,Petrolina,city,2,0,True,349145,2611101,0.57283,
-2020-04-02,PE,Recife,city,74,6,True,1645727,2611606,4.49649,0.0811
-2020-04-02,PE,São Lourenço da Mata,city,3,0,True,113230,2613701,2.64947,
-2020-04-02,PE,,state,106,9,True,9557071,26,1.10913,0.0849
+2020-04-02,PE,Aliança,city,1,0,False,38386,2600708,2.60512,
+2020-04-02,PE,Belo Jardim,city,1,0,False,76439,2601706,1.30823,
+2020-04-02,PE,Camaragibe,city,2,0,False,157828,2603454,1.2672,
+2020-04-02,PE,Caruaru,city,1,0,False,361118,2604106,0.27692,
+2020-04-02,PE,Fernando de Noronha,city,2,0,False,3061,2605459,65.33812,
+2020-04-02,PE,Goiana,city,1,1,False,79758,2606200,1.25379,1.0
+2020-04-02,PE,Importados/Indefinidos,city,5,1,False,,,,0.2
+2020-04-02,PE,Ipubi,city,1,0,False,30854,2607307,3.24107,
+2020-04-02,PE,Jaboatão dos Guararapes,city,7,0,False,702298,2607901,0.99673,
+2020-04-02,PE,Olinda,city,5,1,False,392482,2609600,1.27394,0.2
+2020-04-02,PE,Palmares,city,1,0,False,63250,2610004,1.58103,
+2020-04-02,PE,Petrolina,city,2,0,False,349145,2611101,0.57283,
+2020-04-02,PE,Recife,city,74,6,False,1645727,2611606,4.49649,0.0811
+2020-04-02,PE,São Lourenço da Mata,city,3,0,False,113230,2613701,2.64947,
+2020-04-02,PE,,state,106,9,False,9557071,26,1.10913,0.0849
 2020-04-02,PI,Parnaíba,city,1,1,True,153078,2207702,0.65326,1.0
 2020-04-02,PI,São José do Divino,city,1,1,True,5346,2210052,18.70557,1.0
 2020-04-02,PI,Teresina,city,17,2,True,864845,2211001,1.96567,0.1176
@@ -402,10 +438,10 @@ date,state,city,place_type,confirmed,deaths,is_last,estimated_population_2019,ci
 2020-04-02,RN,São José de Mipibu,city,1,0,True,43899,2412203,2.27796,
 2020-04-02,RN,Tibau,city,1,0,True,4106,2411056,24.3546,
 2020-04-02,RN,,state,106,2,True,3506853,24,3.02265,0.0189
-2020-04-02,RO,Jaru,city,1,0,True,51775,1100114,1.93143,
-2020-04-02,RO,Ji-Paraná,city,1,0,True,128969,1100122,0.77538,
-2020-04-02,RO,Porto Velho,city,8,1,True,529544,1100205,1.51073,0.125
-2020-04-02,RO,,state,10,1,True,1777225,11,0.56267,0.1
+2020-04-02,RO,Jaru,city,1,0,False,51775,1100114,1.93143,
+2020-04-02,RO,Ji-Paraná,city,1,0,False,128969,1100122,0.77538,
+2020-04-02,RO,Porto Velho,city,8,1,False,529544,1100205,1.51073,0.125
+2020-04-02,RO,,state,10,1,False,1777225,11,0.56267,0.1
 2020-04-02,RR,Boa Vista,city,24,0,True,399213,1400100,6.01183,
 2020-04-02,RR,Bonfim,city,3,0,True,12409,1400159,24.176,
 2020-04-02,RR,Cantá,city,3,0,True,18335,1400175,16.36215,
